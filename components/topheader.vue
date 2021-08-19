@@ -5,7 +5,7 @@
                 
                     <nuxt-link to="/home" class="mr-auto lg:mx-auto flex ">
                         <div class="w-6 h-6" >
-                            <img src="/icon.png" class="rounded-full" alt="avatar" >
+                            <img src="/icon.jpeg" class="rounded-full" alt="avatar" >
                         </div>
 
                     </nuxt-link>
